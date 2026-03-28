@@ -24,7 +24,7 @@ description: >- # used by seo meta and the atom feed
 # Fill in the protocol & hostname for your site.
 url: "https://adilhasssan143-arch.github.io"
 baseurl: "/shanza-blog"
-avatar: "/shanza-blog/assets/img/shanza.jpg"
+avatar: "/assets/img/shanza.jpg"
 
 github:
   username: adilhasssan143-archurl

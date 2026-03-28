@@ -22,12 +22,12 @@ description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
-# E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://adilhassan143-arch.github.io"
+url: "https://adilhasssan143-arch.github.io"
+baseurl: "/shanza-blog.github.io"
 
 github:
-  username: adilhassan143-arch
-
+  username: adilhasssan143-arch
+  
 twitter:
   username: twitter_username # change to your Twitter username
 

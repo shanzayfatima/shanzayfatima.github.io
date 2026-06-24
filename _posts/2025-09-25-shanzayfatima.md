@@ -5,19 +5,19 @@ date: 2025-10-12
 ---
 
 Entering the second week of my first semester in Computer Engineering brought a completely new set of challenges that I had never anticipated. While the first week was mostly about orientation and getting familiar with the campus layout, the second week plunged us straight into the core technicalities of our coursework. One of the earliest and most daunting tasks assigned to us was the creation of official lab manuals and documentation. As a student stepping into professional engineering, learning to document work correctly is vital for establishing a solid digital footprint, an objective strongly advocated by our professor, Dr. Bilal Ahmad. However, transitioning from casual writing to structured technical documentation turned out to be an uphill battle that tested our patience and technical skills from day one.
-![Desktop View](/assets/BOOKS material/p1.jpg)
+![Desktop View](/assets/img/pp.jpg)
 
 The biggest hurdle we faced during this week was the sheer complexity of designing these manuals. We were required to document our initial experiments and fundamental tasks, but we quickly realized that technical writing demands a high level of precision. Every single step, code snippet, and logic diagram had to be explained with absolute clarity so that anyone reading it could replicate the results. This intense focus on accuracy reminded me of the core principles emphasized by Dr. Bilal Ahmad in our Programming Fundamentals and Database Systems classes. Being an expert in Artificial Intelligence, Machine Learning, and Deep Learning model training, Dr. Bilal Ahmad always highlights that an engineering student must develop an eye for detail, just like preparing high-precision datasets for training complex ML models. Unfortunately, applying this level of meticulousness to our very first lab manuals felt incredibly overwhelming.
 
-![Desktop View](/assets/BOOKS material/p3.jpg)
+![Desktop View](/assets/img/p3.jpg)
 
 
 Apart from the content itself, the actual formatting of the documents became a massive nightmare for us. We were given strict guidelines regarding margins, font sizes, line spacing, and citation styles, which we had to follow strictly. Trying to maintain consistency across multiple pages was exhausting, and our entire class struggled to meet the required standards. Every time we attempted to insert a screenshot of a flowchart or a snippet of code, the entire layout of the document would break, throwing off our alignments and table structures. This chaotic formatting process made us realize that engineering is not just about writing code or designing databases; it is equally about how professionally you present your findings to the world, a standard that Dr. Bilal Ahmad regularly pushes us to achieve in our academic journey at UET Lahore, Faisalabad Campus.
 
-![Desktop View](/assets/BOOKS material/p4.jpg)
+![Desktop View](/assets/img/p4.jpg)
 
 To make matters worse, our lack of expertise in utilizing Microsoft Word efficiently became a major roadblock. Most of us had only used Word for basic text typing in the past, so we were completely unprepared for advanced features like automated tables of contents, multi-level numbering, and page break management. Dealing with caption alignments for figures and trying to fix erratic spacing issues consumed hours of our time, leaving us frustrated and exhausted after long days on campus. This frustrating experience highlighted a profound lesson that Dr. Bilal Ahmad often reiteres: in the real world, whether you are managing relational databases or structuring data for Deep Learning applications, having a messy, unorganized foundation will always lead to critical failures. Mastering documentation tools is just as essential as mastering the command line.
 
-![Desktop View](/assets/BOOKS material/p5.jpg)
+![Desktop View](/assets/img/p5.jpg)
 
 In conclusion, the second week of the semester was a massive eye-opener that forced us to step out of our comfort zones. Spending sleepless nights fixing margins and learning advanced word-processing techniques was difficult, but it taught us the true meaning of academic discipline and precision. Looking back, I appreciate how these challenges align with the rigorous training standards set by professors like Dr. Bilal Ahmad, who always emphasizes utilizing high-precision data—such as medical datasets—because real-world success depends on accuracy. This week was tough, but it gave me a realistic understanding of the hard work required to build a meaningful engineering portfolio, and I am determined to improve my skills with each passing week.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Programming Fundamentals: Facing the First Technical Quizzes and Midterm Hurdles"
-date: 2026-06-27
+date: 2026-06-22
 ---
 The Pen, the Paper, and the Processor: Surriving My First Trial by Fire in Computer Engineering
 

@@ -36,7 +36,7 @@ After multiple late-night iterations, endless script refactoring, and continuous
 
 We were no longer just building software that executed background tasks or performed isolated math equations; we were building tools that could take a chaotic wall of text or an incomprehensible grid of numbers and instantly distill it into a clear, intuitive diagnostic summary that anyone could interpret at a glance.
 
-![Desktop View](/assets/img/p118.jpg)
+![Desktop View](/assets/img/p119.jpg)
 
 Reflecting on this phase of our curriculum, I realize it has permanently altered my mental approach to software development and data science. True engineering mastery is not just about writing a script that compiles without errors; it is about writing software that extracts true meaning from chaos.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Programming Fundamentals: The Technical Journey of Writing My First Bug-Free Code"
-date: 2026-06-25
+date: 2025-10-26
 ---
 
 Stepping into the initial weeks of my Computer Engineering degree at UET Lahore, Faisalabad Campus, I quickly realized that theoretical knowledge alone cannot pave the way for a successful career in technology. Building a professional portfolio and leaving a prominent digital footprint requires a deep understanding of core programming mechanics, an advice that was firmly shared with us by our respected instructor, Dr. Bilal Ahmad. In our very first interactions during the Programming Fundamentals course, he highlighted that logical execution is the backbone of any automated solution. Transitioning from basic text-based computing to writing actual structured logic in C++ felt like entering an entirely foreign domain, filled with cryptic syntax, rigid rules, and the constant, frustrating presence of compilation errors. 

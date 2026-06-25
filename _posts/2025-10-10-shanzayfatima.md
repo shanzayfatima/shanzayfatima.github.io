@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Programming Fundamentals: Visualizing Logic Through Bar Graphs and Histograms"
-date: 2026-06-28
+date: 2025-10-10
 ---
 
  From Syntax to Structure: The Analytical Shift Into Data Visualization

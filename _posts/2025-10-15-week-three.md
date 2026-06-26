@@ -1,6 +1,6 @@
 ---
 layout: post
-title: semester1:week three
+title: "week 3:semester 1 of CE"
 date: 2025-10-15
 ---
 

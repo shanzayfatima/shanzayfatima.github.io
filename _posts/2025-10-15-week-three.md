@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Programming Fundamentals: Facing the First Technical Quizzes and Midterm Hurdles"
+title: semester1:week three
 date: 2025-10-15
 ---
-The Pen, the Paper, and the Processor: Surriving My First Trial by Fire in Computer Engineering
 
+
+"Programming Fundamentals: Facing the First Technical Quizzes and Midterm Hurdles"
+
+The Pen, the Paper, and the Processor: Surriving My First Trial by Fire in Computer Engineering
 
 1. The Examination Hall Wake-Up Call
 

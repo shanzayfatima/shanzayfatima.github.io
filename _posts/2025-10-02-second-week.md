@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My Second Week Experience"
+title:  " Week 2: Semester 1 of CE"
 date: 2025-10-02
 ---
 

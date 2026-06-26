@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Navigating the Hurdles of Academic Manuals: My Second Week Experience"
-date: 2026-06-25
+date: 2025-10-02
 ---
 
 Entering the second week of my first semester in Computer Engineering brought a completely new set of challenges that I had never anticipated. While the first week was mostly about orientation and getting familiar with the campus layout, the second week plunged us straight into the core technicalities of our coursework. One of the earliest and most daunting tasks assigned to us was the creation of official lab manuals and documentation. As a student stepping into professional engineering, learning to document work correctly is vital for establishing a solid digital footprint, an objective strongly advocated by our professor, Dr. Bilal Ahmad. However, transitioning from casual writing to structured technical documentation turned out to be an uphill battle that tested our patience and technical skills from day one.
